@@ -1,0 +1,12 @@
+npm install -g cordova ionic
+
+ioniv -v && cordova -v
+
+
+https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic
+
+https://frontinbrazil.com.br/2014/09/15/aplicativos-mobile-com-o-angularjs-e-ionic/
+
+https://codeburst.io/building-an-app-using-ionic-1-and-angularjs-part-1-1f0b900de6ed    bom
+
+https://ionicframework.com/docs/v1/guide/installation.html
